@@ -1,14 +1,14 @@
 [
   {
-    "deviceName": "GVH5100_6E55",
+    "deviceName": "GVH5100_1234",
     "Name": "Porch"
   },
   {
-    "deviceName": "GVH5100_5F38",
+    "deviceName": "GVH5100_5678",
     "Name": "Primary bedroom"
   },
   {
-    "deviceName": "GVH5100_5F32",
+    "deviceName": "GVH5100_9abc",
     "Name": "Second Bedroom"
   }
 ]
